@@ -7,7 +7,7 @@ about:
   head: 817e866
   archived: false
   latestVersion: v0.9.2
-  collectedAt: 2026-09-04T19:28:32Z
+  collectedAt: 2026-09-04T21:01:58Z
 timeline:
   created: 2022-06-14
   lastCommit: 2026-05-31
@@ -81,5 +81,38 @@ total:
   openIssue: 4
   commit: 184
 ---
+path: /home/runner/.x-repo/github.com/kevwan/tproxy
+collectedAt: 2026-09-04T21:01:59Z
+loc:
+  Go:
+    code: 1485
+    comments: 23
+    blanks: 263
+    files: 18
+  Svg:
+    code: 116
+    comments: 0
+    blanks: 31
+    files: 1
+  Yaml:
+    code: 113
+    comments: 41
+    blanks: 20
+    files: 6
+  Dockerfile:
+    code: 19
+    comments: 0
+    blanks: 10
+    files: 1
+  Markdown:
+    code: 0
+    comments: 150
+    blanks: 93
+    files: 3
+total:
+  code: 1811
+  comments: 214
+  blanks: 417
+  files: 29
 ---
 
