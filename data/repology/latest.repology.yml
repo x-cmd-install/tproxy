@@ -1,0 +1,78 @@
+- repo: homebrew
+  srcname: tproxy
+  visiblename: tproxy
+  version: 0.9.2
+  origversion: null
+  status: newest
+  summary: CLI tool to proxy and analyze TCP connections
+- repo: homebrew
+  srcname: tproxy
+  visiblename: tproxy
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI tool to proxy and analyze TCP connections
+- repo: nix_stable_24_11
+  srcname: tproxy
+  visiblename: tproxy
+  version: 0.8.1
+  origversion: null
+  status: outdated
+  summary: CLI tool to proxy and analyze TCP connections
+  maintainers:
+    - dcsunset@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: tproxy
+  visiblename: tproxy
+  version: 0.9.0
+  origversion: null
+  status: outdated
+  summary: CLI tool to proxy and analyze TCP connections
+  maintainers:
+    - dcsunset@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: tproxy
+  visiblename: tproxy
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: CLI tool to proxy and analyze TCP connections
+  maintainers:
+    - dcsunset@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: tproxy
+  visiblename: tproxy
+  version: 0.9.2
+  origversion: null
+  status: newest
+  summary: CLI tool to proxy and analyze TCP connections
+  maintainers:
+    - dcsunset@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: tproxy
+  visiblename: tproxy
+  version: 0.9.2
+  origversion: null
+  status: newest
+  summary: CLI tool to proxy and analyze TCP connections
+  maintainers:
+    - dcsunset@protonmail.com
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: tproxy
+  visiblename: tproxy
+  version: 0.9.2
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
