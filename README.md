@@ -38,22 +38,22 @@ Total: **1,733** lines of code across **29** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,707 · **Forks**: 255 · **Open issues**: 9 · **Contributors**: 13
+- **Stars**: 3,707 · **Forks**: 255 · **Open issues**: 10 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 125 · **Open PRs**: 2 · **Closed issues**: 5 · **Open issues**: 4 · **Commits**: 184
+- **Releases**: 21 · **Merged PRs**: 125 · **Open PRs**: 2 · **Closed issues**: 5 · **Open issues**: 5 · **Commits**: 184
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 0 | 2 | 1 | 0 | 0 | 4 |
-| 360d | 2025-10-04 | 1 | 16 | 2 | 0 | 0 | 18 |
-| last720d | 2024-10-09 | 3 | 38 | 2 | 0 | 1 | 41 |
+| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-07-02 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-03 | 0 | 2 | 1 | 0 | 1 | 4 |
+| 360d | 2025-10-05 | 1 | 16 | 2 | 0 | 1 | 18 |
+| last720d | 2024-10-10 | 3 | 38 | 2 | 0 | 2 | 38 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for tproxy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:45:16Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:31:54Z._
