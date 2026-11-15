@@ -14,13 +14,13 @@ x install tproxy
 
 ## Code insight
 
-Total: **1,733** lines of code across **29** files in the top 5 languages.
+Total: **1,755** lines of code across **30** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,485 | 23 | 263 | 18 |
+| Go | 1,503 | 24 | 265 | 19 |
+| Yaml | 117 | 41 | 21 | 6 |
 | Svg | 116 | 0 | 31 | 1 |
-| Yaml | 113 | 41 | 20 | 6 |
 | Dockerfile | 19 | 0 | 10 | 1 |
 | Markdown | 0 | 150 | 93 | 3 |
 
@@ -33,27 +33,27 @@ Total: **1,733** lines of code across **29** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.2` (2025-12-25)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-14
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,711 · **Forks**: 256 · **Open issues**: 9 · **Contributors**: 13
+- **Stars**: 3,713 · **Forks**: 256 · **Open issues**: 9 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 126 · **Open PRs**: 5 · **Closed issues**: 5 · **Open issues**: 4 · **Commits**: 185
+- **Releases**: 21 · **Merged PRs**: 128 · **Open PRs**: 1 · **Closed issues**: 5 · **Open issues**: 4 · **Commits**: 187
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-09-15 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-08-16 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-05-18 | 0 | 1 | 5 | 0 | 0 | 1 |
-| 360d | 2025-11-19 | 1 | 13 | 5 | 0 | 0 | 13 |
-| last720d | 2024-11-24 | 3 | 37 | 5 | 0 | 1 | 38 |
+| 30d | 2026-10-16 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-16 | 0 | 2 | 1 | 0 | 0 | 2 |
+| 90d | 2026-08-17 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last180d | 2026-05-19 | 0 | 3 | 1 | 0 | 0 | 3 |
+| 360d | 2025-11-20 | 1 | 15 | 1 | 0 | 0 | 15 |
+| last720d | 2024-11-25 | 3 | 39 | 1 | 0 | 1 | 40 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for tproxy lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:23:44Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:37:08Z._
